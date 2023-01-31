@@ -11,7 +11,7 @@ body {
   min-height: 100vh;
   background-image: url(images/pattern-background-desktop.svg);
   background-repeat: no-repeat;
-  background-size: cover;
+  
   background-color: hsl(225, 100%, 94%);
   position: relative;
   font-size: 16px;
@@ -78,7 +78,7 @@ body {
 
 .plan-area a {
   font-weight: 700;
-  font-size:14px;
+  font-size: 14px;
   color: hsla(245, 75%, 52%, 1);
 }
 
@@ -92,7 +92,7 @@ a.proceed-btn {
   text-decoration: none;
   color: white;
   background-color: hsla(245, 75%, 52%, 1);
-  box-shadow:0px 20px 20px rgba(56, 42, 225, 0.190291);
+  box-shadow: 0px 20px 20px rgba(56, 42, 225, 0.190291);
   border-radius: 12px;
   padding: 12px;
   margin: 30px 0;
@@ -106,7 +106,7 @@ a.cancel-btn {
   color: hsla(224, 23%, 55%, 1);
   text-decoration: none;
   font-weight: 900;
-  font-size:15px;
+  font-size: 15px;
 }
 a.cancel-btn:hover {
   color: hsla(223, 47%, 23%, 1);
